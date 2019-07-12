@@ -11,7 +11,7 @@
  *
  * NB!:If you change anything, save with UTF-8! Otherwise you may
  *     encounter problems, especially when displaying images.
- *  汉化：pigsier
+ *  汉化：Chen
  ***************************************************************************/
 
 /***************************************************************************/
@@ -91,7 +91,7 @@ $_CONFIG['show_top'] = true;
 // The title for the page
 // Default: $_CONFIG['main_title'] = "Encode Explorer";
 // 主标题
-$_CONFIG['main_title'] = "Pigsier的文件夹";
+$_CONFIG['main_title'] = "Chen的文件夹";
 
 //
 // The secondary page titles, randomly selected and displayed under the main header.
@@ -3130,7 +3130,7 @@ if($this->mobile == false && $this->getConfig("show_load_time") == true)
 	printf($this->getString("page_load_time")." | ", (microtime(TRUE) - $_START_TIME)*1000);
 }
 ?>
-<a href="https://pigsier.github.io">Pigsier随便汉化</a>
+<a href="">Chen</a>
 </div>
 <!-- END: Info area -->
 </body>
