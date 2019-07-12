@@ -30,7 +30,7 @@ a:hover {
 </head>
 
 <p class="style1">&nbsp;</p>
-<p class="style1"><img alt="404" src="404.gif" width="215" height="200"><span class="style2">对不起对不起对不起！/(ㄒoㄒ)/~~</span></p>
-<p class="style3">这里没有你想要的东西。要不，5秒后回<a href="https://pigsier.github.io/">主页</a>？</p>
+<p class="style1"><img alt="404" src="/404.gif" width="215" height="200"><span class="style2">对不起对不起对不起！/(ㄒoㄒ)/~~</span></p>
+<p class="style3">这里没有你想要的东西。要不，5秒后回<a href="/">主页</a>？</p>
 <meta http-equiv="refresh" content="5;url=about:blank">
 </html>
