@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /***************************************************************************
  *
  * 
@@ -11,7 +11,8 @@
  *
  * NB!:If you change anything, save with UTF-8! Otherwise you may
  *     encounter problems, especially when displaying images.
- *  汉化：Chen***************************************************************************/
+ *  汉化：pigsier
+ ***************************************************************************/
 
 /***************************************************************************/
 /*   HERE ARE THE SETTINGS FOR CONFIGURATION                               */
@@ -3129,7 +3130,7 @@ if($this->mobile == false && $this->getConfig("show_load_time") == true)
 	printf($this->getString("page_load_time")." | ", (microtime(TRUE) - $_START_TIME)*1000);
 }
 ?>
-<a href="/">Chen</a>
+<a href="https://pigsier.github.io">Pigsier随便汉化</a>
 </div>
 <!-- END: Info area -->
 </body>
